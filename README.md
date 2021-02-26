@@ -18,8 +18,12 @@ Check [mill](https://com-lihaoyi.github.io/mill/) for latest version.
 
 ### Run
 
-```
-mill main_class_name.compile
+Where `foo` is `main_class_name`
 
-mill main_class_name.run
+```
+mill foo.compile
+
+mill foo.run
+
+mill foo.test
 ```
