@@ -3,7 +3,7 @@
 ### Install 
 
 ```
-brew instal mill
+brew install mill
 
 or
 
