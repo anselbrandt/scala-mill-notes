@@ -1,8 +1,6 @@
 # scala-mill-notes
 
-[mill](https://com-lihaoyi.github.io/mill/)
-
-### Install
+### Install 
 
 ```
 brew instal mill
@@ -11,6 +9,8 @@ or
 
 sudo curl -L https://github.com/lihaoyi/mill/releases/download/0.9.5/0.9.5 > /usr/local/bin/mill && sudo chmod +x /usr/local/bin/mill
 ```
+
+Check [mill](https://com-lihaoyi.github.io/mill/) for latest version.
 
 `mill` only installs itself after being run the first time.
 
