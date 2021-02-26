@@ -26,6 +26,11 @@ mill foo.compile
 mill foo.run
 
 mill foo.test
+```
+### Create Executable
 
+```
 mill foo.assembly
 ```
+
+`.jar` will be at `out/main/assembly/dest/out.jar`
